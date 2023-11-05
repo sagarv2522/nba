@@ -50,6 +50,6 @@ If you'd like to contribute to this project, feel free to open issues, submit pu
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in accordance with the license terms.
+This project is licensed under the [MIT License](LICENSE).
 
 Enjoy exploring the exciting world of NBA MVP predictions with machine learning !
