@@ -7,6 +7,9 @@
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768B?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-%230488D8?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%236A1B9A?style=flat-square&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![Requests](https://img.shields.io/badge/Requests-%231BC63B?style=flat-square&logo=requests&logoColor=white)](https://docs.python-requests.org/en/latest/)
 
 <a href="https://colab.research.google.com/drive/1y0rrIEZ_pTpnH1e_iyWUWYBq9E5s6Ssb#scrollTo=4ebqpNcm4BDH">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
