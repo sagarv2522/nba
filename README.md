@@ -11,10 +11,6 @@
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%236A1B9A?style=flat-square&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 [![Requests](https://img.shields.io/badge/Requests-%231BC63B?style=flat-square&logo=requests&logoColor=white)](https://docs.python-requests.org/en/latest/)
 
-<a href="https://colab.research.google.com/drive/1y0rrIEZ_pTpnH1e_iyWUWYBq9E5s6Ssb#scrollTo=4ebqpNcm4BDH">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
-</a>
-
 </div>
 
 ## Introduction
