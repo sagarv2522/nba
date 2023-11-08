@@ -1,4 +1,4 @@
-# Predicting NBA MVPs with Machine Learning 🏀🤖🧹
+# Predicting NBA MVPs with Machine Learning ⛹️🏀🤖🧹
 
 <div align="left">
 
